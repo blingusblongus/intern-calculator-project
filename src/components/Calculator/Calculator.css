@@ -1,0 +1,12 @@
+.calculator {
+    background-color: rgb(112, 41, 41);
+    color: beige;
+    width: 80vw;
+    margin: auto;
+    padding: 5px;
+    background-image: url('https://images.unsplash.com/photo-1597633611385-17238892d086?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');
+}
+
+.calculator-input {
+    width: 50px;
+}
