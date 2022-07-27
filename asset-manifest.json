@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/intern-calculator-project/static/css/main.b19d05a3.css",
+    "main.js": "/intern-calculator-project/static/js/main.8c8b7f03.js",
+    "static/js/787.f1fee744.chunk.js": "/intern-calculator-project/static/js/787.f1fee744.chunk.js",
+    "index.html": "/intern-calculator-project/index.html",
+    "main.b19d05a3.css.map": "/intern-calculator-project/static/css/main.b19d05a3.css.map",
+    "main.8c8b7f03.js.map": "/intern-calculator-project/static/js/main.8c8b7f03.js.map",
+    "787.f1fee744.chunk.js.map": "/intern-calculator-project/static/js/787.f1fee744.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b19d05a3.css",
+    "static/js/main.8c8b7f03.js"
+  ]
+}
